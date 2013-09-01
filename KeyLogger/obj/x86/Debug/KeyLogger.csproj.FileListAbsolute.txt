@@ -1,0 +1,8 @@
+D:\Study\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+D:\Study\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.Properties.Resources.resources
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.exe
+D:\Study\KeyLogger\KeyLogger\obj\x86\Debug\KeyLogger.pdb
